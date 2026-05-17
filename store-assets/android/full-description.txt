@@ -1,0 +1,25 @@
+MedReminder helps you stay on top of your medications with reliable daily alarms, a clean health-focused design, and complete privacy — your data never leaves your device.
+
+FEATURES
+
+• Medication reminders — set one or multiple alarm times per medication, with gentle audio tones and vibration.
+• Flexible schedules — choose Every Day, Once a Week, or Custom Days (pick any combination of days).
+• Smart daily tracking — see which doses you've taken and your overall adherence percentage at a glance.
+• Mark as Taken — tap directly from the notification or from inside the app.
+• Snooze — bought yourself 5 more minutes? Snooze any reminder with one tap.
+• Medication photos & icons — attach a photo of your pill pack or choose from built-in health icons.
+• Notes — store special instructions like "take with food" alongside each medication.
+• Alarm sounds — choose from four gentle tones: Default, Gentle Bells, Morning Chime, or Soft Beep.
+• Backup & restore — export all your medications and logs to a single file and import them on any device.
+• Works offline — no internet connection required after first install.
+
+PRIVACY
+
+MedReminder is private by design. There is no account to create, no server to connect to, and no analytics. Everything you enter — medications, schedules, photos, and logs — is stored exclusively on your device. Nothing is shared with anyone.
+
+MEDICAL DISCLAIMER
+
+MedReminder is a reminder tool, not a medical device. Always follow your doctor's or pharmacist's guidance for your medications.
+
+---
+Simple. Private. Reliable.

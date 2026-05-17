@@ -1,0 +1,3 @@
+Welcome to MedReminder!
+
+Set up your medications, choose your reminder times, and never miss a dose again. Your data stays on your device — always private, always available offline.

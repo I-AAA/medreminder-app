@@ -1,0 +1,7 @@
+Initial release of MedReminder.
+
+• Add unlimited medications with custom schedules (daily, weekly, or specific days)
+• Set multiple reminder times per medication with audio alarms
+• Track daily dose adherence
+• Backup and restore your data
+• Full offline support — no internet required
