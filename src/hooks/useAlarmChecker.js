@@ -17,8 +17,8 @@ function fireWebNotification(med) {
   } else {
     new Notification(`💊 Time for ${med.name}`, {
       body,
-      icon: "/icons/icon-192.png",
-      badge: "/icons/icon-192.png",
+      icon: "./icons/icon-192.png",
+      badge: "./icons/icon-192.png",
       data: { medId: med.id },
     });
   }
